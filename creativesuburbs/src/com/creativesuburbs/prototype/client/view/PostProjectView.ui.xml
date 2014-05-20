@@ -12,6 +12,7 @@
 			<g:TextBox ui:field="projectNameTextBox"></g:TextBox>
 			<g:HTML> in </g:HTML>
 			<g:SuggestBox ui:field="locationSuggestBox"></g:SuggestBox>
+			<g:Button ui:field="postButton">Post</g:Button>
 	    </g:HorizontalPanel>
 	</g:VerticalPanel>
 	

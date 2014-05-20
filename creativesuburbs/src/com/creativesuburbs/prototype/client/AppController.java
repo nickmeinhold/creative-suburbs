@@ -4,6 +4,7 @@ import com.creativesuburbs.prototype.client.events.NavigationRequestEvent;
 import com.creativesuburbs.prototype.client.events.NavigationRequestEventHandler;
 import com.creativesuburbs.prototype.client.presenter.LandingPagePresenter;
 import com.creativesuburbs.prototype.client.presenter.PostProjectPresenter;
+import com.creativesuburbs.prototype.client.presenter.ViewProjectPresenter;
 import com.google.gwt.event.shared.HandlerManager;
 import com.google.gwt.user.client.ui.RootLayoutPanel;
 
@@ -12,6 +13,7 @@ public class AppController {
 	private HandlerManager eventBus;
 	private LandingPagePresenter landingPagePresenter;
 	private PostProjectPresenter postProjectPresenter;
+	private ViewProjectPresenter viewProjectPresenter;
 	
 	public AppController(GreetingServiceAsync greetingService, HandlerManager eventBus)
 	{
@@ -19,6 +21,8 @@ public class AppController {
 		
 		landingPagePresenter = new LandingPagePresenter(RootLayoutPanel.get(), eventBus); 
 		postProjectPresenter = new PostProjectPresenter(RootLayoutPanel.get(), eventBus); 
+		viewProjectPresenter = new ViewProjectPresenter(RootLayoutPanel.get(), eventBus); 
+		
 		
 		bind(); 
 		
@@ -42,6 +46,10 @@ public class AppController {
 				if(event.getToPage().equals("PostProject")) 
 				{
 					postProjectPresenter.go();
+				}
+				else if(event.getToPage().equals("ViewProject")) 
+				{
+					viewProjectPresenter.go(event.getProjectDTO());
 				}
 				
 			}

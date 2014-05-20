@@ -9,6 +9,7 @@ import com.google.gwt.user.client.ui.MultiWordSuggestOracle;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.user.client.ui.SuggestBox;
+import com.google.gwt.user.client.ui.Button;
 
 public class PostProjectView extends Composite {
 
@@ -17,6 +18,7 @@ public class PostProjectView extends Composite {
 	@UiField ListBox verbListBox; 
 	@UiField TextBox projectNameTextBox; 
 	@UiField(provided = true) SuggestBox locationSuggestBox;
+	@UiField Button postButton;
 
 	interface PostProjectViewUiBinder extends UiBinder<Widget, PostProjectView> {
 	}
@@ -42,6 +44,11 @@ public class PostProjectView extends Composite {
 	public SuggestBox getLocationSuggestBox()
 	{
 		return this.locationSuggestBox; 
+	}
+	
+	public Button getPostButton() 
+	{
+		return this.postButton; 
 	}
 	
 }
