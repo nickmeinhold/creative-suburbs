@@ -6190,3 +6190,997 @@ Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectV
       Compiling...
          Compilation completed in 0.01 seconds
       Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2753 units from cache.
+Compiling...
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   30% complete (ETR: 10 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12.39 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624906418.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624906418.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624906418_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624907554.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624907554.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400624907554_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2753 units from cache.
+Compiling...
+   Compilation completed in 0.06 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626521633.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626521633.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626521633_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626522587.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626522587.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626522587_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626533817.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626533817.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626533817_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626541535.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626541535.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626541535_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626562134.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626562134.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626562134_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626580846.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626580846.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626580846_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626959475.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626959475.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626959475_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626963905.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626963905.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400626963905_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2753 units from cache.
+Compiling...
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15.25 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628518873.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628518873.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628518873_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.MenuBar.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method menuBarSubMenuIcon
+         Adding image 'com.google.gwt.user.client.ui.MenuBar.Resources.menuBarSubMenuIcon'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628519609.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628519609.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628519609_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628533962.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628533962.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628533962_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628536414.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628536414.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628536414_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628569900.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628569900.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+         Generating method body for html5()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628569900_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView.PostProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628571572.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628571572.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+         Generating method body for html5()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.PostProjectView_PostProjectViewUiBinderImpl_designTime1400628571572_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012056.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012056.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012056_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012184.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012184.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629012184_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629032893.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629032893.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629032893_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629035815.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629035815.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400629035815_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2753 units from cache.
+Compiling...
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 7.09 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632187891.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632187891.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632187891_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632189016.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632189016.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632189016_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632684799.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632684799.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+         Generating method body for html4()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632684799_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632687666.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632687666.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632687666_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632710230.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632710230.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632710230_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632725953.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632725953.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632725953_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632736130.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632736130.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632736130_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632738586.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632738586.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632738586_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632740592.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632740592.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632740592_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632755014.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632755014.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632755014_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632758612.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632758612.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632758612_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView.ViewProjectViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632799616.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632799616.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ViewProjectView_ViewProjectViewUiBinderImpl_designTime1400632799616_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2756 units from cache.
+Compiling...
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15.23 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633413838_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633414056_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633426169_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633429352_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633437045_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633450701_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633453692_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633460996_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633465989_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633484664_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633486665_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633500920_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView.ProjectCardViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.creativesuburbs.prototype.client.view.ProjectCardView_ProjectCardViewUiBinderImpl_designTime1400633588989_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units

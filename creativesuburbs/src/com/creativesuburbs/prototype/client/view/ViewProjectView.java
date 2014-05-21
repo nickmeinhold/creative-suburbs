@@ -9,7 +9,7 @@ import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.user.client.ui.Image;
 import com.google.gwt.user.client.ui.HTML;
-import com.google.gwt.user.client.ui.SimplePanel;
+import com.google.gwt.user.client.ui.Button;
 
 public class ViewProjectView extends Composite {
 
@@ -18,7 +18,8 @@ public class ViewProjectView extends Composite {
 	@UiField Label projectNameLbl; 
 	@UiField Image userImg;
 	@UiField HTML userDescriptionHTML;
-	@UiField SimplePanel projectImg;
+	@UiField Image projectImg;
+	@UiField Button backToProjectsButton;
 
 	interface ViewProjectViewUiBinder extends UiBinder<Widget, ViewProjectView> {
 	}
@@ -32,15 +33,29 @@ public class ViewProjectView extends Composite {
 	{
 		String projectDescription = dto.getProjectName() + " in " + dto.getProjectLocation(); 
 		setBannerDescription(projectDescription); 
-		
-		
-		
+		setUserDescription(" wants to "+dto.getProjectVerb()+ " a " + projectDescription);
+		setProjectImage(dto.getImageUrl()); 
 	}
 	
-	public void setBannerDescription(String description) {
+	private void setBannerDescription(String description) {
 		
 		projectNameLbl.setText(description);
 		
+	}
+	
+	private void setUserDescription(String description)
+	{
+		userDescriptionHTML.setHTML(description); 
+	}
+	
+	private void setProjectImage(String url)
+	{
+		this.projectImg.setUrl(url);
+	}
+	
+	public Button getBackToProjectsButton()
+	{
+		return this.backToProjectsButton; 
 	}
 
 }

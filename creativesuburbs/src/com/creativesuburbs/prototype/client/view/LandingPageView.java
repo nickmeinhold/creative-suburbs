@@ -12,7 +12,7 @@ public class LandingPageView extends Composite {
 	private static LandingPageViewUiBinder uiBinder = GWT.create(LandingPageViewUiBinder.class);
 
 	@UiField Button makeStuffHappenBtn; 
-	
+	@UiField Button rBtn; 
 	
 	interface LandingPageViewUiBinder extends UiBinder<Widget, LandingPageView> {
 	}
@@ -24,6 +24,11 @@ public class LandingPageView extends Composite {
 	public Button getMakeStuffHappenButton() 
 	{
 		return makeStuffHappenBtn; 
+	}
+	
+	public Button getRButton() 
+	{
+		return rBtn; 
 	}
 
 }

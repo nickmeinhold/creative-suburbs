@@ -9,9 +9,11 @@
 	    <g:HorizontalPanel borderWidth="0" spacing="10" verticalAlignment="ALIGN_MIDDLE">
 	    	<g:HTML>How would I </g:HTML>
 			<g:ListBox ui:field="verbListBox"></g:ListBox>
+			<g:HTML wordWrap="true">a</g:HTML>
 			<g:TextBox ui:field="projectNameTextBox"></g:TextBox>
 			<g:HTML> in </g:HTML>
 			<g:SuggestBox ui:field="locationSuggestBox"></g:SuggestBox>
+			<g:HTML wordWrap="true">?</g:HTML>
 			<g:Button ui:field="postButton">Post</g:Button>
 	    </g:HorizontalPanel>
 	</g:VerticalPanel>

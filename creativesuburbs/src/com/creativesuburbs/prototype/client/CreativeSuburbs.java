@@ -6,12 +6,12 @@ import com.google.gwt.event.shared.HandlerManager;
 
 public class CreativeSuburbs implements EntryPoint {
 	
-	private final GreetingServiceAsync greetingService = GWT.create(GreetingService.class);
+	private final CreativeSuburbsServiceAsync projectsService = GWT.create(CreativeSuburbsService.class);
 
 	public void onModuleLoad() {
 		
 	    HandlerManager eventBus = new HandlerManager(null);
-	    AppController appController = new AppController(greetingService, eventBus); 
+	    AppController appController = new AppController(projectsService, eventBus); 
 	    appController.go();
 		
 		

@@ -21,7 +21,7 @@
         		</g:Dock>
         		<g:Dock direction="EAST">
         			<g:VerticalPanel horizontalAlignment="ALIGN_RIGHT" width="100%" verticalAlignment="ALIGN_MIDDLE">
-        				<g:Button>R</g:Button>
+        				<g:Button ui:field='rBtn'>R</g:Button>
         			</g:VerticalPanel>
         		</g:Dock>
         	</g:DockPanel>

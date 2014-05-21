@@ -7,6 +7,7 @@ import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.ListBox;
 import com.google.gwt.user.client.ui.MultiWordSuggestOracle;
 import com.google.gwt.user.client.ui.TextBox;
+import com.google.gwt.user.client.ui.ValueBoxBase;
 import com.google.gwt.user.client.ui.Widget;
 import com.google.gwt.user.client.ui.SuggestBox;
 import com.google.gwt.user.client.ui.Button;
@@ -49,6 +50,16 @@ public class PostProjectView extends Composite {
 	public Button getPostButton() 
 	{
 		return this.postButton; 
+	}
+	
+	public ValueBoxBase<String> getProjectLocationTextBox() 
+	{
+		return this.locationSuggestBox.getValueBox(); 
+	}
+	
+	public String getProjectVerb()
+	{
+		return this.verbListBox.getItemText(this.verbListBox.getSelectedIndex()); 
 	}
 	
 }

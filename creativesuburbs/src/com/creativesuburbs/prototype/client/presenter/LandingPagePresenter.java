@@ -29,6 +29,15 @@ public class LandingPagePresenter {
 			
 		}); 
 		
+		view.getRButton().addClickHandler(new ClickHandler() {
+
+			@Override
+			public void onClick(ClickEvent event) {
+				eventBus.fireEvent(new NavigationRequestEvent("ViewStoredProjects")); 
+			}
+			
+		}); 
+		
 	}
 	
 	public void go() {

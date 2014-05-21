@@ -50,7 +50,7 @@ public class PostProjectPresenter {
 						postProjectDialog.fillProjectDTO(newProject); 
 						postProjectDialog.hide(); 
 						fillProjectDTO(); 
-						eventBus.fireEvent(new NavigationRequestEvent("ViewProject", newProject)); 
+						eventBus.fireEvent(new NavigationRequestEvent("StoreAndViewProject", newProject)); 
 					}
 					
 				}); 
@@ -81,7 +81,8 @@ public class PostProjectPresenter {
 	private void fillProjectDTO()
 	{
 		this.newProject.setProjectName(view.getProjectNameTextBox().getText()); 
-		// TODO - add the rest 
+		this.newProject.setProjectLocation(view.getProjectLocationTextBox().getValue());
+		this.newProject.setProjectVerb(view.getProjectVerb());
 	}
 	
 }
